@@ -35,5 +35,6 @@
 ---
 
 ## 🎓 WNIOSKI KOŃCOWE
-Aplikacja w obecnym stanie **nie może zostać opublikowana**. Poziom ryzyka związanego z bibliotekami firm trzecich oraz błędną konfiguracją manifestu jest zbyt wysoki dla bezpiecznego użytkowania.
+Aplikacja w obecnym stanie **nie może zostać opublikowana**. Poziom ryzyka związanego z bibliotekami firm trzecich oraz błędną konfiguracją 
+manifestu jest zbyt wysoki dla bezpiecznego użytkowania.
  
